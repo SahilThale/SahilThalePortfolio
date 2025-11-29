@@ -1,6 +1,6 @@
 import { useState } from 'react';
 import Globe from 'react-globe.gl';
-
+import resume from '/assets/SahilThale_FullStackDeveloper3.pdf';
 import Button from '../components/Button.jsx';
 
 const About = () => {
