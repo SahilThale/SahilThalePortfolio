@@ -69,7 +69,7 @@ const About = () => {
                 I&apos;m based in Panvel, India and open to working remotely with teams around the world.
               </p>
                <a href="#contact">
-              <Button name="Download Resume" isBeam containerClass="w-full mt-10" />
+              <Button name="Contact Me" isBeam containerClass="w-full mt-10" />
               </a>
             </div>
           </div>
